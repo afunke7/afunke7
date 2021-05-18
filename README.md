@@ -1,0 +1,3 @@
+- Alec Funke
+- Employed at General Motors as a Software Automation Engineer in Infotainment
+- Learning Python web dev, SQL, Docker, Kubernetes and AWS
