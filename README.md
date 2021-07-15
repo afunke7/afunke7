@@ -1,3 +1,4 @@
 - Alec Funke
-- Employed at General Motors as a Software Automation Engineer in Infotainment
-- Learning Python web dev, SQL, Docker, Kubernetes and AWS
+- Employed at Prime Trust as a Software Engineer (Aug 2021 - Present)
+- Formerly employed at General Motors as a Software Automation Engineer in Infotainment (Aug 2017 - Aug 2021)
+- Learning Ruby on Rails, MySQL, Docker, Kubernetes and AWS
