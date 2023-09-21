@@ -1,4 +1,3 @@
-- Alec Funke
 - Employed at Prime Trust as a Software Engineer (Aug 2021 - Present)
 - Formerly employed at General Motors as a Software Automation Engineer in Infotainment (Aug 2017 - Aug 2021)
 - Technical Skills: Advanced in Python and Ruby, AI Techniques, Android Development, AWS Basics, ChatGPT, Datadog,
